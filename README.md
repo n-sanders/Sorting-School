@@ -27,7 +27,7 @@ Save & exit preserves an unfinished round. Resume it from the adventure page. Br
 
 The app has no dependencies, network requests, telemetry, or backend. engine.js implements selection and insertion, data.js holds the catalog, app.js handles the interface and saving, and style.css defines the responsive design.
 
-Pokémon artwork is bundled from the public PokéAPI sprites repository (official-artwork directory). Characters and names belong to their respective rights holders. Dogs and dinosaurs use original stylized vector drawings. All 50 book illustrations were individually generated for this personal learning project. The book illustrations use the original, unmodified 1,254 × 1,254 PNG files (about 165 MB total), replacing the previous 360 × 360 JPEG versions. Saved rounds resolve their book image paths from the current catalog when resumed.
+Pokémon artwork is bundled from the public PokéAPI sprites repository (official-artwork directory). Characters and names belong to their respective rights holders. Dogs use original stylized vector drawings. Dinosaur pictures are life restorations from Wikimedia Commons, plus a photograph of a Fukuisaurus skeletal mount. The Raptor card uses a restoration of Dromaeosaurus. Artists and licenses are listed in assets/dinosaur-credits.txt. These pictures are included for this private homeschool app. All 50 book illustrations were individually generated for this personal learning project. The book illustrations use the original, unmodified 1,254 × 1,254 PNG files (about 165 MB total), replacing the previous 360 × 360 JPEG versions. Saved rounds resolve their book and dinosaur image paths from the current catalog when resumed.
 
 ## Validation
 
