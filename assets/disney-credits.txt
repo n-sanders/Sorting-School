@@ -1,0 +1,102 @@
+Disney character pictures
+
+Used in this private homeschool app for ranks C and B.
+Each picture is a character portrait saved locally so the collection works offline.
+Names and characters belong to Disney. The pictures are included for this family's personal, non-monetized learning app.
+
+Abu — assets/disney-0.jpg — https://static.wikia.nocookie.net/disney/images/3/3f/Profile_-_Abu.png/revision/latest/scale-to-width-down/720?cb=20190526020855
+Aladdin — assets/disney-1.jpg — https://static.wikia.nocookie.net/disney/images/b/bb/Profile_-_Aladdin.png
+Alice — assets/disney-2.jpg — https://static.wikia.nocookie.net/disney/images/7/75/Profile_-_Alice.jpeg/revision/latest/scale-to-width-down/625?cb=20260729200124
+Anna — assets/disney-3.jpg — https://static.wikia.nocookie.net/disney/images/0/0f/Profile_-_Anna.jpeg/revision/latest/scale-to-width-down/630?cb=20200319054431
+Ariel — assets/disney-4.jpg — https://static.wikia.nocookie.net/disney/images/8/8a/Profile_-_Ariel.jpg/revision/latest/scale-to-width-down/675?cb=20260214125609
+Aurora — assets/disney-5.jpg — https://static.wikia.nocookie.net/disney/images/2/2a/Profile_-_Aurora.jpeg/revision/latest?cb=20260322084912
+Bambi — assets/disney-6.jpg — https://static.wikia.nocookie.net/disney/images/d/d5/32248bambi2_1.jpg/revision/latest?cb=20120408232149
+Beast — assets/disney-7.jpg — https://static.wikia.nocookie.net/disney/images/8/84/Profile_-_Beast.jpeg/revision/latest/scale-to-width-down/708?cb=20260102043034
+Belle — assets/disney-8.jpg — https://static.wikia.nocookie.net/disney/images/1/1b/Profile_-_Belle.jpeg/revision/latest/scale-to-width-down/607?cb=20260419055926
+Buzz Lightyear — assets/disney-9.jpg — https://static.wikia.nocookie.net/disney/images/7/74/Profile_-_Buzz_Lightyear.jpeg/revision/latest/scale-to-width-down/720?cb=20190623020017
+Captain Hook — assets/disney-10.jpg — https://static.wikia.nocookie.net/disney/images/0/0b/Profile_-_Captain_Hook.jpeg/revision/latest/scale-to-width-down/720?cb=20251210030124
+Cheshire Cat — assets/disney-11.jpg — https://static.wikia.nocookie.net/disney/images/8/8e/DisneyCheshireCat.jpg/revision/latest/scale-to-width-down/720?cb=20190228152714
+Chip — assets/disney-12.jpg — https://static.wikia.nocookie.net/disney/images/a/ac/Profile_-_Chip.png
+Cinderella — assets/disney-13.jpg — https://static.wikia.nocookie.net/disney/images/e/e5/Profile_-_Cinderella.jpeg
+Cogsworth — assets/disney-14.jpg — https://static.wikia.nocookie.net/disney/images/b/bd/Profile_-_Cogsworth.png/revision/latest/scale-to-width-down/616?cb=20190317100043
+Cruella — assets/disney-15.jpg — https://static.wikia.nocookie.net/disney/images/9/92/Profile_-_Cruella.png/revision/latest/scale-to-width-down/639?cb=20190312122644
+Daisy Duck — assets/disney-16.png — https://static.wikia.nocookie.net/disney/images/c/c9/Classic_Daisy_Duck.png/revision/latest/scale-to-width-down/377?cb=20250306042726
+Donald Duck — assets/disney-17.png — https://static.wikia.nocookie.net/disney/images/a/ab/Donald_Duck_Disney_1.png/revision/latest/scale-to-width-down/648?cb=20180828172632
+Dory — assets/disney-18.jpg — https://static.wikia.nocookie.net/disney/images/3/36/Profile_-_Dory.png/revision/latest?cb=20240410214311
+Dumbo — assets/disney-19.jpg — https://static.wikia.nocookie.net/disney/images/e/e2/Profile_-_Dumbo.jpg
+Edna — assets/disney-20.jpg — https://static.wikia.nocookie.net/disney/images/f/ff/Profile_-_Edna_Mode.jpg/revision/latest/scale-to-width-down/720?cb=20190314210134
+Eeyore — assets/disney-21.jpg — https://static.wikia.nocookie.net/disney/images/1/1c/Profile_-_Eeyore.png/revision/latest/scale-to-width-down/720?cb=20210516060155
+Elsa — assets/disney-22.jpg — https://static.wikia.nocookie.net/disney/images/9/95/Profile_-_Elsa.jpeg/revision/latest/scale-to-width-down/652?cb=20241222112925
+Eric — assets/disney-23.jpg — https://static.wikia.nocookie.net/disney/images/f/f1/Profile_-_Prince_Eric.jpeg/revision/latest/scale-to-width-down/532?cb=20250910152256
+Esmeralda — assets/disney-24.jpg — https://static.wikia.nocookie.net/disney/images/e/e4/Profile_-_Esmeralda.png/revision/latest/scale-to-width-down/691?cb=20231001061207
+Flounder — assets/disney-25.jpg — https://static.wikia.nocookie.net/disney/images/6/60/Profile_-_Flounder.jpeg/revision/latest/scale-to-width-down/720?cb=20191026173646
+Flynn — assets/disney-26.jpg — https://static.wikia.nocookie.net/disney/images/8/84/Profile_-_Flynn_Rider.jpeg/revision/latest/scale-to-width-down/498?cb=20260612124729
+Gaston — assets/disney-27.jpg — https://static.wikia.nocookie.net/disney/images/d/d4/Profile_-_Gaston.jpeg/revision/latest/scale-to-width-down/683?cb=20261010151726
+Genie — assets/disney-28.jpg — https://static.wikia.nocookie.net/disney/images/9/92/Profile_-_Genie.jpeg/revision/latest/scale-to-width-down/720?cb=20190312022310
+Goofy — assets/disney-29.png — https://static.wikia.nocookie.net/disney/images/e/e5/Goofy.png/revision/latest/scale-to-width-down/489?cb=20250827192413
+Grumpy — assets/disney-30.jpg — https://static.wikia.nocookie.net/disney/images/e/ef/Profile_-_Grumpy.png/revision/latest/scale-to-width-down/557?cb=20250307220140
+Hades — assets/disney-31.jpg — https://static.wikia.nocookie.net/disney/images/2/2c/Profile_-_Hades.jpeg/revision/latest/scale-to-width-down/720?cb=20190312030411
+Hercules — assets/disney-32.jpg — https://static.wikia.nocookie.net/disney/images/7/70/Profile_-_Hercules.jpeg/revision/latest/scale-to-width-down/526?cb=20220125211152
+Hiro — assets/disney-33.jpg — https://static.wikia.nocookie.net/disney/images/2/21/Profile_-_Hiro_Hamada.jpeg/revision/latest/scale-to-width-down/621?cb=20251202024306
+Iago — assets/disney-34.jpg — https://static.wikia.nocookie.net/disney/images/6/69/Profile_-_Iago.jpeg/revision/latest/scale-to-width-down/720?cb=20190312023536
+Isabela — assets/disney-35.jpg — https://static.wikia.nocookie.net/disney/images/4/47/Profile_-_Isabela_Madrigal.png/revision/latest?cb=20211028173500
+Jack Skellington — assets/disney-36.jpg — https://static.wikia.nocookie.net/disney/images/0/06/Profile_-_Jack_Skellington.jpeg/revision/latest/scale-to-width-down/720?cb=20190316145716
+Jafar — assets/disney-37.jpg — https://static.wikia.nocookie.net/disney/images/6/60/Profile_-_Jafar.jpeg/revision/latest/scale-to-width-down/720?cb=20190312023726
+Jasmine — assets/disney-38.jpg — https://static.wikia.nocookie.net/disney/images/c/cd/Profile_-_Jasmine.jpeg/revision/latest/scale-to-width-down/596?cb=20260322105441
+Jessie — assets/disney-39.jpg — https://static.wikia.nocookie.net/disney/images/1/11/Profile_-_Jessie.jpeg/revision/latest/scale-to-width-down/461?cb=20260819135329
+Jiminy Cricket — assets/disney-40.jpg — https://static.wikia.nocookie.net/disney/images/f/f0/Profile_-_Jiminy_Cricket.jpeg/revision/latest/scale-to-width-down/540?cb=20190312063605
+Joy — assets/disney-41.jpg — https://static.wikia.nocookie.net/disney/images/e/eb/Profile_-_Joy.png/revision/latest?cb=20240529150014
+Judy Hopps — assets/disney-42.jpg — https://static.wikia.nocookie.net/disney/images/d/da/Profile_-_Judy_Hopps.jpeg/revision/latest/scale-to-width-down/540?cb=20260427193834
+Kaa — assets/disney-43.jpg — https://static.wikia.nocookie.net/disney/images/f/f8/Profile_-_Kaa.jpeg/revision/latest/scale-to-width-down/720?cb=20190312125844
+Kristoff — assets/disney-44.jpg — https://static.wikia.nocookie.net/disney/images/b/b4/Profile_-_Kristoff.jpeg/revision/latest/scale-to-width-down/720?cb=20201122004647
+Kuzco — assets/disney-45.jpg — https://static.wikia.nocookie.net/disney/images/f/ff/Profile_-_Kuzco.jpeg
+Lady — assets/disney-46.jpg — https://static.wikia.nocookie.net/disney/images/0/06/Profile_-_Lady.jpeg/revision/latest/scale-to-width-down/720?cb=20190314123153
+Lilo — assets/disney-47.jpg — https://static.wikia.nocookie.net/disney/images/1/1f/Profile_-_Lilo.png/revision/latest?cb=20190312072611
+Louie — assets/disney-48.jpg — https://static.wikia.nocookie.net/disney/images/b/b2/Profile_-_King_Louie.jpeg/revision/latest/scale-to-width-down/720?cb=20260424200251
+Lumiere — assets/disney-49.jpg — https://static.wikia.nocookie.net/disney/images/f/f5/Profile_-_Lumiere.jpeg/revision/latest/scale-to-width-down/530?cb=20190312062638
+Maleficent — assets/disney-50.jpg — https://static.wikia.nocookie.net/disney/images/0/05/Profile_-_Maleficent.jpeg/revision/latest?cb=20250118085922
+Maui — assets/disney-51.jpg — https://static.wikia.nocookie.net/disney/images/6/6f/Profile_-_Maui.jpeg/revision/latest/scale-to-width-down/720?cb=20250309150414
+Merida — assets/disney-52.jpg — https://static.wikia.nocookie.net/disney/images/d/d2/Profile_-_Merida.jpeg/revision/latest/scale-to-width-down/720?cb=20230913063318
+Mickey Mouse — assets/disney-53.png — https://static.wikia.nocookie.net/disney/images/2/2e/Disney_Mickey_Mouse.png/revision/latest/scale-to-width-down/637?cb=20250301192111
+Mike Wazowski — assets/disney-54.jpg — https://static.wikia.nocookie.net/disney/images/d/d5/Profile_-_Mike_Wazowski.jpg/revision/latest?cb=20220608010955
+Minnie Mouse — assets/disney-55.png — https://static.wikia.nocookie.net/disney/images/6/67/Minnie_Mouse.png/revision/latest/scale-to-width-down/540?cb=20251231222653
+Moana — assets/disney-56.jpg — https://static.wikia.nocookie.net/disney/images/7/7d/Profile_-_Moana.png
+Mufasa — assets/disney-57.jpg — https://static.wikia.nocookie.net/disney/images/5/5e/Mufasa_Lion_King_.jpg/revision/latest/scale-to-width-down/720?cb=20240910202509
+Mulan — assets/disney-58.jpg — https://static.wikia.nocookie.net/disney/images/0/04/Profile_-_Mulan.jpeg/revision/latest/scale-to-width-down/582?cb=20230904010800
+Nala — assets/disney-59.jpg — https://static.wikia.nocookie.net/disney/images/5/55/Profile_-_Nala.jpeg/revision/latest/scale-to-width-down/720?cb=20190312044211
+Nemo — assets/disney-60.jpg — https://static.wikia.nocookie.net/disney/images/f/f2/Profile_-_Nemo.jpg/revision/latest?cb=20240410213426
+Nick Wilde — assets/disney-61.jpg — https://static.wikia.nocookie.net/disney/images/5/50/Profile_-_Nick_Wilde.jpeg/revision/latest/scale-to-width-down/481?cb=20260427193945
+Olaf — assets/disney-62.jpg — https://static.wikia.nocookie.net/disney/images/5/53/Profile_-_Olaf.jpeg/revision/latest/scale-to-width-down/584?cb=20200221075027
+Pascal — assets/disney-63.jpg — https://static.wikia.nocookie.net/disney/images/b/ba/Profile_-_Pascal.png/revision/latest/scale-to-width-down/720?cb=20211206030625
+Peter Pan — assets/disney-64.jpg — https://static.wikia.nocookie.net/disney/images/5/5e/Profile_-_Peter_Pan.jpeg
+Piglet — assets/disney-65.jpg — https://static.wikia.nocookie.net/disney/images/5/5d/Profile_-_Piglet.png/revision/latest/scale-to-width-down/720?cb=20190424074931
+Pinocchio — assets/disney-66.jpg — https://static.wikia.nocookie.net/disney/images/9/9b/Profile_-_Pinocchio.jpeg
+Pluto — assets/disney-67.png — https://static.wikia.nocookie.net/disney/images/1/13/Pluto_the_pup.png/revision/latest/scale-to-width-down/621?cb=20240613035106
+Pocahontas — assets/disney-68.jpg — https://static.wikia.nocookie.net/disney/images/7/7b/Profile_-_Pocahontas.jpeg/revision/latest/scale-to-width-down/520?cb=20190524013155
+Pumbaa — assets/disney-69.jpg — https://static.wikia.nocookie.net/disney/images/e/e6/Profile_-_Pumbaa.jpeg/revision/latest/scale-to-width-down/720?cb=20190312043302
+Quasimodo — assets/disney-70.jpg — https://static.wikia.nocookie.net/disney/images/7/7f/Quasimodo.jpeg/revision/latest/scale-to-width-down/705?cb=20190301095734
+Rafiki — assets/disney-71.jpg — https://static.wikia.nocookie.net/disney/images/3/32/Profile_-_Rafiki.jpeg/revision/latest/scale-to-width-down/720?cb=20241230142702
+Rapunzel — assets/disney-72.jpg — https://static.wikia.nocookie.net/disney/images/a/ae/Profile_-_Rapunzel.jpeg/revision/latest/scale-to-width-down/427?cb=20260511164915
+Remy — assets/disney-73.jpg — https://static.wikia.nocookie.net/disney/images/0/0d/Profile_-_Remy.jpg/revision/latest/scale-to-width-down/603?cb=20210304151316
+Robin Hood — assets/disney-74.jpg — https://static.wikia.nocookie.net/disney/images/4/42/Robin_Hood_Disney.jpg
+Scar — assets/disney-75.jpg — https://static.wikia.nocookie.net/disney/images/6/66/Profile_-_Scar.jpeg/revision/latest/scale-to-width-down/720?cb=20260309065514
+Sebastian — assets/disney-76.jpg — https://static.wikia.nocookie.net/disney/images/c/ca/Profile_-_Sebastian.jpeg/revision/latest/scale-to-width-down/720?cb=20190312033135
+Simba — assets/disney-77.jpg — https://static.wikia.nocookie.net/disney/images/3/37/Profile_-_Simba.jpeg/revision/latest/scale-to-width-down/720?cb=20190312043852
+Snow White — assets/disney-78.jpg — https://static.wikia.nocookie.net/disney/images/3/33/Profile_-_Snow_White.jpeg/revision/latest/scale-to-width-down/542?cb=20260519055153
+Stitch — assets/disney-79.jpg — https://static.wikia.nocookie.net/disney/images/b/b7/Profile_-_Stitch.jpg/revision/latest/scale-to-width-down/720?cb=20190312072323
+Sulley — assets/disney-80.jpg — https://static.wikia.nocookie.net/disney/images/3/3c/Profile_-_Sulley.jpg/revision/latest/scale-to-width-down/720?cb=20200817112818
+Sven — assets/disney-81.jpg — https://static.wikia.nocookie.net/disney/images/0/0b/Profile_-_Sven.jpeg/revision/latest/scale-to-width-down/720?cb=20190312031834
+Thumper — assets/disney-82.jpg — https://static.wikia.nocookie.net/disney/images/1/16/Profile_-_Thumper.png/revision/latest?cb=20240626211553
+Tiana — assets/disney-83.jpg — https://static.wikia.nocookie.net/disney/images/f/fa/Profile_-_Tiana.jpeg/revision/latest/scale-to-width-down/649?cb=20260322182729
+Tigger — assets/disney-84.jpg — https://static.wikia.nocookie.net/disney/images/6/60/Profile_-_Tigger.png/revision/latest/scale-to-width-down/543?cb=20230430081828
+Tinker Bell — assets/disney-85.jpg — https://static.wikia.nocookie.net/disney/images/7/76/Profile_-_Tinker_Bell.jpeg/revision/latest/scale-to-width-down/531?cb=20260521224537
+Triton — assets/disney-86.jpg — https://static.wikia.nocookie.net/disney/images/d/df/Profile_-_King_Triton.jpeg/revision/latest/scale-to-width-down/720?cb=20190312033451
+Ursula — assets/disney-87.jpg — https://static.wikia.nocookie.net/disney/images/7/72/Profile_-_Ursula.jpeg/revision/latest/scale-to-width-down/720?cb=20201204230949
+Vanellope — assets/disney-88.jpg — https://static.wikia.nocookie.net/disney/images/2/25/Profile_-_Vanellope_Von_schweetz.jpeg/revision/latest/scale-to-width-down/601?cb=20190312023329
+Wall-E — assets/disney-89.png — https://static.wikia.nocookie.net/disney/images/2/2b/Wall-E.png/revision/latest/scale-to-width-down/720?cb=20180629212054
+Wendy — assets/disney-90.jpg — https://static.wikia.nocookie.net/disney/images/5/53/Profile_-_Wendy_Darling.jpeg/revision/latest/scale-to-width-down/565?cb=20190312151612
+Winnie the Pooh — assets/disney-91.jpg — https://static.wikia.nocookie.net/disney/images/0/03/Profile_-_Winnie_the_Pooh.png/revision/latest/scale-to-width-down/720?cb=20250323022729
+Woody — assets/disney-92.jpg — https://static.wikia.nocookie.net/disney/images/2/22/Profile_-_Woody.jpeg/revision/latest/scale-to-width-down/577?cb=20200711052417
+Yzma — assets/disney-93.jpg — https://static.wikia.nocookie.net/disney/images/f/f2/Profile_-_Yzma.jpeg/revision/latest/scale-to-width-down/505?cb=20250118090109
+Zazu — assets/disney-94.jpg — https://static.wikia.nocookie.net/disney/images/9/95/Profile_-_Zazu.jpeg/revision/latest/scale-to-width-down/720?cb=20190312043508
+Zero — assets/disney-95.png — https://static.wikia.nocookie.net/disney/images/3/3c/Zero.png
