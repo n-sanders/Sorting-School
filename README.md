@@ -21,7 +21,7 @@ C and B offer Pokémon, dinosaurs, and dog breeds. A and S use criteria-checked 
 
 Click a card, then a shelf +. Or drag a card to a + or either half of an existing card. Read the shelf left to right, then the next row. Select a shelf card to move it. Undo reverses the latest placement. A and S keep future cards disabled until their turn.
 
-Save & exit preserves an unfinished round. Resume it from the adventure page. Browser local storage saves progress per computer and browser. Private browsing, clearing browser data, or moving the offline file may affect saving. The header reports blocked storage. Grown-up corner includes progress backup download, restore, and reset.
+Save & exit preserves an unfinished round. Resume it from the adventure page. Browser local storage saves progress per computer and browser. Private browsing, clearing browser data, or moving the offline file may affect saving. The header reports blocked storage. Grown-up corner asks a question, then lets a grown-up open any level in the browser or reset progress on this device.
 
 ## Source and artwork
 
