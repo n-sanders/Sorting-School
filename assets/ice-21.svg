@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<!-- Sprinkle Orange Orbit -->
+<ellipse cx="100" cy="190" rx="56" ry="6.5" fill="#475940" opacity=".12"/>
+<ellipse cx="100" cy="102" rx="46" ry="34" fill="#ff9a2e"/>
+<ellipse cx="84" cy="88" rx="16" ry="9" fill="#fff" opacity="0.38" transform="rotate(-18 84 88)"/>
+<defs><clipPath id="cup"><path d="M54 116 L69 174 Q100 186 131 174 L146 116 Z"/></clipPath></defs>
+<path d="M54 116 L69 174 Q100 186 131 174 L146 116 Z" fill="#fffaf3"/>
+<g clip-path="url(#cup)"><rect x="40" y="136" width="120" height="16" fill="#ff9a2e"/></g>
+<path d="M54 116 L69 174 Q100 186 131 174 L146 116" fill="none" stroke="#ead9c4" stroke-width="2"/>
+<ellipse cx="100" cy="116" rx="48" ry="13" fill="#fffaf3"/>
+<ellipse cx="100" cy="116" rx="48" ry="13" fill="none" stroke="#e7d3bc" stroke-width="2.2"/>
+<rect x="76.0" y="99.8" width="4.6" height="8" rx="1.2" fill="#e23d4a" transform="rotate(33 76.0 99.8)"/><rect x="106.3" y="84.9" width="4.6" height="8" rx="1.2" fill="#efc35c" transform="rotate(9 106.3 84.9)"/><rect x="123.4" y="86.7" width="4.6" height="8" rx="1.2" fill="#7dcea0" transform="rotate(-21 123.4 86.7)"/><rect x="106.2" y="81.4" width="4.6" height="8" rx="1.2" fill="#7eb8d4" transform="rotate(37 106.2 81.4)"/><rect x="97.6" y="98.9" width="4.6" height="8" rx="1.2" fill="#f4a3bb" transform="rotate(-34 97.6 98.9)"/><rect x="81.9" y="82.4" width="4.6" height="8" rx="1.2" fill="#c47d32" transform="rotate(-30 81.9 82.4)"/><rect x="78.5" y="90.5" width="4.6" height="8" rx="1.2" fill="#e23d4a" transform="rotate(24 78.5 90.5)"/>
+<path d="M36 112 Q100 18 166 104" fill="none" stroke="#e07a28" stroke-width="3.6" stroke-dasharray="9 7" stroke-linecap="round"/>
+<circle cx="36" cy="112" r="5" fill="#e23d4a"/>
+<circle cx="166" cy="104" r="4.5" fill="#7dcea0"/>
+<circle cx="100" cy="34" r="4" fill="#7eb8d4"/>
+</svg>

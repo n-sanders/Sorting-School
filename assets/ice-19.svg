@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<!-- Sprinkle Grape Glow -->
+<ellipse cx="100" cy="190" rx="56" ry="6.5" fill="#475940" opacity=".12"/>
+<circle cx="100" cy="96" r="58" fill="#e4c8f0" opacity=".85"/>
+<ellipse cx="100" cy="102" rx="50" ry="36" fill="#8a54a8"/>
+<ellipse cx="100" cy="110" rx="42" ry="18" fill="#6a3d88"/>
+<ellipse cx="82" cy="86" rx="16" ry="9" fill="#fff" opacity="0.38" transform="rotate(-18 82 86)"/>
+<path d="M70 58 L70.88 61.12 L74 62 L70.88 62.88 L70 66 L69.12 62.88 L66 62 L69.12 61.12 Z" fill="#fff"/>
+<path d="M126 54.5 L126.77 57.23 L129.5 58 L126.77 58.77 L126 61.5 L125.23 58.77 L122.5 58 L125.23 57.23 Z" fill="#fff"/>
+<path d="M108 43 L108.66 45.34 L111 46 L108.66 46.66 L108 49 L107.34 46.66 L105 46 L107.34 45.34 Z" fill="#f4d8ff"/>
+<defs><clipPath id="cup"><path d="M54 116 L69 174 Q100 186 131 174 L146 116 Z"/></clipPath></defs>
+<path d="M54 116 L69 174 Q100 186 131 174 L146 116 Z" fill="#fffaf3"/>
+<g clip-path="url(#cup)"><rect x="40" y="136" width="120" height="16" fill="#b98bc8"/></g>
+<path d="M54 116 L69 174 Q100 186 131 174 L146 116" fill="none" stroke="#ead9c4" stroke-width="2"/>
+<ellipse cx="100" cy="116" rx="48" ry="13" fill="#fffaf3"/>
+<ellipse cx="100" cy="116" rx="48" ry="13" fill="none" stroke="#e7d3bc" stroke-width="2.2"/>
+<rect x="74.0" y="91.0" width="4.6" height="8" rx="1.2" fill="#e23d4a" transform="rotate(-13 74.0 91.0)"/><rect x="111.1" y="81.2" width="4.6" height="8" rx="1.2" fill="#efc35c" transform="rotate(-31 111.1 81.2)"/><rect x="120.5" y="101.4" width="4.6" height="8" rx="1.2" fill="#7dcea0" transform="rotate(37 120.5 101.4)"/><rect x="113.5" y="85.5" width="4.6" height="8" rx="1.2" fill="#7eb8d4" transform="rotate(33 113.5 85.5)"/><rect x="115.0" y="95.1" width="4.6" height="8" rx="1.2" fill="#f4a3bb" transform="rotate(-44 115.0 95.1)"/><rect x="77.3" y="97.5" width="4.6" height="8" rx="1.2" fill="#c47d32" transform="rotate(-32 77.3 97.5)"/>
+</svg>

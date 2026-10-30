@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<!-- Lime Twist -->
+<ellipse cx="100" cy="190" rx="52" ry="6.5" fill="#475940" opacity=".12"/>
+<defs><clipPath id="cone"><path d="M70 124 L100 186 L130 124 Z"/></clipPath></defs>
+<path d="M70 124 L100 186 L130 124 Z" fill="#f2c56e"/>
+<path d="M100 186 L130 124 L111 124 Z" fill="#e4ad4e"/>
+<g clip-path="url(#cone)" fill="none" stroke="#c9842f" stroke-width="2.15" stroke-linecap="round">
+  <path d="M77 137 H123 M73 151 H127 M81 165 H119 M91 178 H109"/>
+  <path d="M85 124 L77 174 M100 124 V182 M115 124 L123 174"/>
+</g>
+<ellipse cx="100" cy="108" rx="50" ry="36" fill="#b6d96a"/>
+<ellipse cx="100" cy="78" rx="38" ry="26" fill="#d4ee9a"/>
+<ellipse cx="84" cy="66" rx="16" ry="9" fill="#fff" opacity="0.38" transform="rotate(-18 84 66)"/>
+<path d="M92 52c14-16 32-8 28 6" fill="none" stroke="#3f6a1c" stroke-width="5" stroke-linecap="round"/>
+<g transform="rotate(-28 116 64)">
+<path d="M116 48 A16 16 0 0 1 116 80 L116 64 Z" fill="#edf8c4" stroke="#3f6a1c" stroke-width="1.8"/>
+<path d="M116 54 V76" stroke="#8fbf4a" stroke-width="1.2"/>
+</g>
+</svg>

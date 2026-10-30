@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<!-- Sundae Peach Picnic -->
+<ellipse cx="100" cy="190" rx="64" ry="6.5" fill="#475940" opacity=".12"/>
+<defs>
+<clipPath id="napkin"><rect x="32" y="146" width="136" height="36" rx="8"/></clipPath>
+<pattern id="checks" width="16" height="16" patternUnits="userSpaceOnUse">
+<rect width="16" height="16" fill="#fffaf3"/>
+<rect width="8" height="8" fill="#f3c2bb"/>
+<rect x="8" y="8" width="8" height="8" fill="#f3c2bb"/>
+</pattern>
+</defs>
+<rect x="32" y="146" width="136" height="36" fill="url(#checks)" clip-path="url(#napkin)"/>
+<path d="M46 126 L58 168 Q100 182 142 168 L154 126 Z" fill="#fffaf3"/>
+<path d="M60 142 L68 166 Q100 176 132 166 L140 142 Z" fill="#f6efe4"/>
+<ellipse cx="100" cy="118" rx="40" ry="24" fill="#ffc29a"/>
+<ellipse cx="86" cy="108" rx="22" ry="16" fill="#ffd8be"/>
+<ellipse cx="100" cy="126" rx="56" ry="14" fill="#fffaf3" stroke="#ead9c4" stroke-width="2"/>
+<g transform="rotate(16 118 100)">
+<path d="M118 84 C134 82 136 108 118 116 C104 108 102 90 118 84" fill="#ff9a62"/>
+<path d="M118 86 C120 100 119 108 118 114" fill="none" stroke="#e39a78" stroke-width="1.4"/>
+</g>
+</svg>

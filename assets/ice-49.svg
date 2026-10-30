@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<!-- Watermelon Wave -->
+<ellipse cx="100" cy="190" rx="52" ry="6.5" fill="#475940" opacity=".12"/>
+<defs><clipPath id="cone"><path d="M70 122 L100 186 L130 122 Z"/></clipPath></defs>
+<path d="M70 122 L100 186 L130 122 Z" fill="#f2c56e"/>
+<path d="M100 186 L130 122 L111 122 Z" fill="#e4ad4e"/>
+<g clip-path="url(#cone)" fill="none" stroke="#c9842f" stroke-width="2.15" stroke-linecap="round">
+  <path d="M77 135 H123 M73 149 H127 M81 163 H119 M91 176 H109"/>
+  <path d="M85 122 L77 172 M100 122 V182 M115 122 L123 172"/>
+</g>
+<ellipse cx="100" cy="112" rx="52" ry="38" fill="#7dae6a"/>
+<ellipse cx="100" cy="102" rx="46" ry="30" fill="#ff8fa3"/>
+<path d="M62 108 q14-10 26 0 t26 0 t24 2" fill="none" stroke="#f7f1e6" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="84" cy="96" rx="2.2" ry="3.2" fill="#243e37"/>
+<ellipse cx="100" cy="108" rx="2.2" ry="3.2" fill="#243e37"/>
+<ellipse cx="116" cy="94" rx="2.2" ry="3.2" fill="#243e37"/>
+<ellipse cx="108" cy="80" rx="2" ry="2.8" fill="#243e37"/>
+<ellipse cx="82" cy="86" rx="12" ry="7" fill="#fff" opacity="0.35" transform="rotate(-18 82 86)"/>
+</svg>

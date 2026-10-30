@@ -5,7 +5,7 @@
   function shuffle(list,rng=Math.random){const out=[...list];for(let i=out.length-1;i>0;i--){const j=Math.floor(rng()*(i+1));[out[i],out[j]]=[out[j],out[i]];}return out;}
   function grouped(items,fn){const groups={};items.forEach(x=>(groups[fn(x)]??=[]).push(x));return Object.values(groups);}
   function selectCards(catalog,rank,count,theme,rng=Math.random){
-    const pool=rank<2?catalog[theme]:catalog.books;
+    const pool=rank<2?catalog[theme]:theme==='ice'?catalog.ice:catalog.books;
     let chosen=[];
     if(rank===0){chosen=shuffle(grouped(pool,x=>key(x.title)[0]),rng).slice(0,count).map(g=>shuffle(g,rng)[0]);}
     if(rank===1||rank===2){

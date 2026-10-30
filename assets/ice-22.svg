@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<!-- Cherry Cobbler -->
+<ellipse cx="100" cy="190" rx="60" ry="6.5" fill="#475940" opacity=".12"/>
+<path d="M46 126 L58 168 Q100 182 142 168 L154 126 Z" fill="#fffaf3"/>
+<path d="M60 142 L68 166 Q100 176 132 166 L140 142 Z" fill="#f6efe4"/>
+<ellipse cx="100" cy="118" rx="44" ry="26" fill="#e23d4a"/>
+<circle cx="86" cy="112" r="4" fill="#b11f52"/>
+<circle cx="108" cy="108" r="4.5" fill="#9a1848"/>
+<circle cx="98" cy="120" r="3.5" fill="#c73364"/>
+<ellipse cx="100" cy="126" rx="56" ry="14" fill="#fffaf3" stroke="#ead9c4" stroke-width="2"/>
+<rect x="70" y="104" width="8" height="5" rx="1.5" fill="#f2c56e" transform="rotate(-18 70 104)"/>
+<rect x="84" y="98" width="8" height="5" rx="1.5" fill="#e4ad4e" transform="rotate(12 84 98)"/>
+<rect x="98" y="94" width="8" height="5" rx="1.5" fill="#f6d98a" transform="rotate(-8 98 94)"/>
+<rect x="112" y="100" width="8" height="5" rx="1.5" fill="#d49a45" transform="rotate(20 112 100)"/>
+<rect x="124" y="108" width="8" height="5" rx="1.5" fill="#c4843c" transform="rotate(-14 124 108)"/>
+<rect x="90" y="110" width="8" height="5" rx="1.5" fill="#f2c56e" transform="rotate(8 90 110)"/>
+</svg>

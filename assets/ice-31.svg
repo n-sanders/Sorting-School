@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<!-- Cookie Dream -->
+<ellipse cx="100" cy="190" rx="58" ry="6.5" fill="#475940" opacity=".12"/>
+<ellipse cx="100" cy="132" rx="54" ry="18" fill="#c4843c"/>
+<rect x="78" y="126" width="9" height="6" rx="2" fill="#3c2a22" transform="rotate(-12 82.5 129)"/>
+<rect x="108" y="124" width="10" height="6" rx="2" fill="#3c2a22" transform="rotate(14 113 127)"/>
+<ellipse cx="100" cy="112" rx="46" ry="20" fill="#f6ead3"/>
+<ellipse cx="84" cy="106" rx="12" ry="5" fill="#fff" opacity="0.4" transform="rotate(-12 84 106)"/>
+<ellipse cx="100" cy="90" rx="54" ry="18" fill="#d4a05a"/>
+<rect x="76" y="84" width="9" height="6" rx="2" fill="#3c2a22" transform="rotate(10 80.5 87)"/>
+<rect x="112" y="82" width="10" height="6" rx="2" fill="#3c2a22" transform="rotate(-16 117 85)"/>
+<path d="M146 66 L146.88 69.12 L150 70 L146.88 70.88 L146 74 L145.12 70.88 L142 70 L145.12 69.12 Z" fill="#efc35c"/>
+<path d="M52 74.5 L52.77 77.23 L55.5 78 L52.77 78.77 L52 81.5 L51.23 78.77 L48.5 78 L51.23 77.23 Z" fill="#fff"/>
+<path d="M100 48 L100.88 51.12 L104 52 L100.88 52.88 L100 56 L99.12 52.88 L96 52 L99.12 51.12 Z" fill="#efc35c"/>
+</svg>

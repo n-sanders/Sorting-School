@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<!-- Scoop Berry Bliss -->
+<ellipse cx="100" cy="190" rx="52" ry="6.5" fill="#475940" opacity=".12"/>
+<defs><clipPath id="cone"><path d="M70 128 L100 186 L130 128 Z"/></clipPath></defs>
+<path d="M70 128 L100 186 L130 128 Z" fill="#f2c56e"/>
+<path d="M100 186 L130 128 L111 128 Z" fill="#e4ad4e"/>
+<g clip-path="url(#cone)" fill="none" stroke="#c9842f" stroke-width="2.15" stroke-linecap="round">
+  <path d="M77 141 H123 M73 155 H127 M81 169 H119 M91 182 H109"/>
+  <path d="M85 128 L77 178 M100 128 V182 M115 128 L123 178"/>
+</g>
+<ellipse cx="100" cy="118" rx="48" ry="32" fill="#9a1848"/>
+<ellipse cx="100" cy="86" rx="40" ry="28" fill="#d24b72"/>
+<ellipse cx="100" cy="60" rx="30" ry="22" fill="#f4a3bb"/>
+<ellipse cx="88" cy="50" rx="12" ry="7" fill="#fff" opacity="0.38" transform="rotate(-16 88 50)"/>
+<path d="M78 37 L79.1 40.9 L83 42 L79.1 43.1 L78 47 L76.9 43.1 L73 42 L76.9 40.9 Z" fill="#efc35c"/>
+<path d="M118 32 L118.88 35.12 L122 36 L118.88 36.88 L118 40 L117.12 36.88 L114 36 L117.12 35.12 Z" fill="#fff"/>
+<path d="M104 24.5 L104.77 27.23 L107.5 28 L104.77 28.77 L104 31.5 L103.23 28.77 L100.5 28 L103.23 27.23 Z" fill="#efc35c"/>
+</svg>

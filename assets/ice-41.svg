@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<!-- Lemon Drop -->
+<ellipse cx="100" cy="190" rx="52" ry="6.5" fill="#475940" opacity=".12"/>
+<defs><clipPath id="cone"><path d="M70 132 L100 186 L130 132 Z"/></clipPath></defs>
+<path d="M70 132 L100 186 L130 132 Z" fill="#f2c56e"/>
+<path d="M100 186 L130 132 L111 132 Z" fill="#e4ad4e"/>
+<g clip-path="url(#cone)" fill="none" stroke="#c9842f" stroke-width="2.15" stroke-linecap="round">
+  <path d="M77 145 H123 M73 159 H127 M81 173 H119 M91 186 H109"/>
+  <path d="M85 132 L77 182 M100 132 V182 M115 132 L123 182"/>
+</g>
+<circle cx="100" cy="96" r="40" fill="#ffe56a"/>
+<ellipse cx="84" cy="82" rx="14" ry="9" fill="#fff" opacity="0.5" transform="rotate(-20 84 82)"/>
+<circle cx="118" cy="70" r="13" fill="#ffe56a" stroke="#e0b83a" stroke-width="1.4"/>
+<circle cx="118" cy="70" r="3.6" fill="#fff6c2"/>
+<path d="M106 70 H130 M118 58 V82" stroke="#e0b83a" stroke-width="1"/>
+</svg>

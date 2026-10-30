@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<!-- Scoop Maple Melt -->
+<ellipse cx="100" cy="190" rx="52" ry="6.5" fill="#475940" opacity=".12"/>
+<defs><clipPath id="cone"><path d="M70 118 L100 186 L130 118 Z"/></clipPath></defs>
+<path d="M70 118 L100 186 L130 118 Z" fill="#f2c56e"/>
+<path d="M100 186 L130 118 L111 118 Z" fill="#e4ad4e"/>
+<g clip-path="url(#cone)" fill="none" stroke="#c9842f" stroke-width="2.15" stroke-linecap="round">
+  <path d="M77 131 H123 M73 145 H127 M81 159 H119 M91 172 H109"/>
+  <path d="M85 118 L77 168 M100 118 V182 M115 118 L123 168"/>
+</g>
+<ellipse cx="100" cy="104" rx="52" ry="36" fill="#e09a3e"/>
+<path d="M128 108c8 16 4 36-2 48-8-6-10-20-6-34 2-6 6-12 8-14z" fill="#c47d32"/>
+<path d="M74 112c-6 10-2 24 2 32 6-4 8-14 4-24-2-4-4-6-6-8z" fill="#f2c56e"/>
+<ellipse cx="82" cy="86" rx="16" ry="8" fill="#fff" opacity="0.38" transform="rotate(-20 82 86)"/>
+<path d="M0-18 L3.2-8 L12-11 L7-2.5 L16 1.5 L7 5 L10 15 L2 7 L0 18 L-2 7 L-10 15 L-7 5 L-16 1.5 L-7-2.5 L-12-11 L-3.2-8 Z" fill="#a56b32" transform="translate(78 62) scale(0.7)"/>
+</svg>

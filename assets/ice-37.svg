@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<!-- Papaya Pop -->
+<ellipse cx="100" cy="190" rx="36" ry="6.5" fill="#475940" opacity=".12"/>
+<rect x="93" y="138" width="14" height="46" rx="4" fill="#e4ad4e"/>
+<path d="M62 58 Q62 132 100 138 Q138 132 138 58 Q138 30 100 30 Q62 30 62 58" fill="#ffb347"/>
+<ellipse cx="82" cy="52" rx="16" ry="10" fill="#fff" opacity="0.4" transform="rotate(-16 82 52)"/>
+<ellipse cx="78.0" cy="101.7" rx="1.3" ry="1.7" fill="#5c3318"/><ellipse cx="122.0" cy="108.1" rx="1.3" ry="1.7" fill="#5c3318"/><ellipse cx="110.8" cy="54.3" rx="1.3" ry="1.7" fill="#5c3318"/><ellipse cx="112.1" cy="55.3" rx="1.3" ry="1.7" fill="#5c3318"/><ellipse cx="84.2" cy="84.2" rx="1.3" ry="1.7" fill="#5c3318"/><ellipse cx="86.7" cy="61.5" rx="1.3" ry="1.7" fill="#5c3318"/><ellipse cx="112.3" cy="65.3" rx="1.3" ry="1.7" fill="#5c3318"/><ellipse cx="123.0" cy="85.1" rx="1.3" ry="1.7" fill="#5c3318"/><ellipse cx="116.3" cy="65.7" rx="1.3" ry="1.7" fill="#5c3318"/><ellipse cx="86.6" cy="77.3" rx="1.3" ry="1.7" fill="#5c3318"/><ellipse cx="98.6" cy="73.5" rx="1.3" ry="1.7" fill="#5c3318"/><ellipse cx="114.4" cy="74.4" rx="1.3" ry="1.7" fill="#5c3318"/>
+</svg>

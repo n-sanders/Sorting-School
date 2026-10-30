@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<!-- Sundae Peach Parade -->
+<ellipse cx="100" cy="190" rx="52" ry="6.5" fill="#475940" opacity=".12"/>
+<defs><clipPath id="cone"><path d="M70 126 L100 186 L130 126 Z"/></clipPath></defs>
+<path d="M70 126 L100 186 L130 126 Z" fill="#f2c56e"/>
+<path d="M100 186 L130 126 L111 126 Z" fill="#e4ad4e"/>
+<g clip-path="url(#cone)" fill="none" stroke="#c9842f" stroke-width="2.15" stroke-linecap="round">
+  <path d="M77 139 H123 M73 153 H127 M81 167 H119 M91 180 H109"/>
+  <path d="M85 126 L77 176 M100 126 V182 M115 126 L123 176"/>
+</g>
+<ellipse cx="100" cy="116" rx="48" ry="32" fill="#ffb38a"/>
+<ellipse cx="100" cy="84" rx="40" ry="28" fill="#ffd0b0"/>
+<ellipse cx="84" cy="72" rx="16" ry="9" fill="#fff" opacity="0.38" transform="rotate(-18 84 72)"/>
+<g transform="rotate(-8 100 52)">
+<path d="M100 36 C116 34 118 60 100 68 C86 60 84 42 100 36" fill="#ffc29a"/>
+<path d="M100 38 C102 52 101 60 100 66" fill="none" stroke="#e39a78" stroke-width="1.4"/>
+</g>
+<path d="M78 58 v-26" stroke="#c9842f" stroke-width="2" stroke-linecap="round"/>
+<path d="M78 32 l12 5-12 5z" fill="#e23d4a"/>
+<path d="M122 64 v-24" stroke="#c9842f" stroke-width="2" stroke-linecap="round"/>
+<path d="M122 40 l12 5-12 5z" fill="#efc35c"/>
+</svg>
