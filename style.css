@@ -29,3 +29,7 @@
 .dialog.admire .close{position:fixed;top:16px;right:16px;width:52px;height:52px;border-radius:50%;background:#fffef9;color:var(--ink);font-size:32px;line-height:1;display:grid;place-items:center}
 .dialog.admire .close:hover{background:#e4edcf}
 @media(max-width:680px){.zoom{width:36px;height:36px;right:8px;bottom:62px}.zoom svg{width:18px;height:18px}}
+.card.dogs img{object-fit:cover;border-radius:6px}
+.theme.has-photo .theme-illustration{overflow:hidden}
+.theme.has-photo .theme-illustration img{width:100%;height:100%;object-fit:cover;border-radius:0;filter:none}
+.theme.has-photo .theme-illustration .shape{display:none}
