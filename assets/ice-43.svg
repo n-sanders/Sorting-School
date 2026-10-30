@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<!-- Mango Tango -->
+<ellipse cx="100" cy="190" rx="52" ry="6.5" fill="#475940" opacity=".12"/>
+<defs><clipPath id="cone"><path d="M70 126 L100 186 L130 126 Z"/></clipPath></defs>
+<path d="M70 126 L100 186 L130 126 Z" fill="#f2c56e"/>
+<path d="M100 186 L130 126 L111 126 Z" fill="#e4ad4e"/>
+<g clip-path="url(#cone)" fill="none" stroke="#c9842f" stroke-width="2.15" stroke-linecap="round">
+  <path d="M77 139 H123 M73 153 H127 M81 167 H119 M91 180 H109"/>
+  <path d="M85 126 L77 176 M100 126 V182 M115 126 L123 176"/>
+</g>
+<ellipse cx="100" cy="116" rx="48" ry="32" fill="#ff9a2e"/>
+<ellipse cx="100" cy="84" rx="40" ry="28" fill="#ffc46b"/>
+<ellipse cx="84" cy="72" rx="16" ry="9" fill="#fff" opacity="0.38" transform="rotate(-18 84 72)"/>
+<path d="M118 50c14-6 24 10 16 22-12-2-20-8-16-22z" fill="#ffb347"/>
+<path d="M124 52c6 8 6 16 2 20" fill="none" stroke="#e07a28" stroke-width="1.5"/>
+</svg>

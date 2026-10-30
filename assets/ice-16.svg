@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<!-- Sprinkle Lemon Lolly -->
+<ellipse cx="100" cy="190" rx="52" ry="6.5" fill="#475940" opacity=".12"/>
+<defs><clipPath id="cone"><path d="M70 128 L100 186 L130 128 Z"/></clipPath></defs>
+<path d="M70 128 L100 186 L130 128 Z" fill="#f2c56e"/>
+<path d="M100 186 L130 128 L111 128 Z" fill="#e4ad4e"/>
+<g clip-path="url(#cone)" fill="none" stroke="#c9842f" stroke-width="2.15" stroke-linecap="round">
+  <path d="M77 141 H123 M73 155 H127 M81 169 H119 M91 182 H109"/>
+  <path d="M85 128 L77 178 M100 128 V182 M115 128 L123 178"/>
+</g>
+<defs><clipPath id="cap"><ellipse cx="100" cy="96" rx="48" ry="36"/></clipPath></defs>
+<ellipse cx="100" cy="104" rx="50" ry="36" fill="#ffe56a"/>
+<g clip-path="url(#cap)"><rect x="60.0" y="77.4" width="4.6" height="8" rx="1.2" fill="#e23d4a" transform="rotate(-37 60.0 77.4)"/><rect x="87.7" y="99.3" width="4.6" height="8" rx="1.2" fill="#efc35c" transform="rotate(0 87.7 99.3)"/><rect x="121.7" y="116.8" width="4.6" height="8" rx="1.2" fill="#7dcea0" transform="rotate(33 121.7 116.8)"/><rect x="138.3" y="79.1" width="4.6" height="8" rx="1.2" fill="#7eb8d4" transform="rotate(-17 138.3 79.1)"/><rect x="84.2" y="100.8" width="4.6" height="8" rx="1.2" fill="#f4a3bb" transform="rotate(32 84.2 100.8)"/><rect x="99.0" y="110.4" width="4.6" height="8" rx="1.2" fill="#c47d32" transform="rotate(-34 99.0 110.4)"/><rect x="71.0" y="75.6" width="4.6" height="8" rx="1.2" fill="#e23d4a" transform="rotate(16 71.0 75.6)"/><rect x="141.0" y="94.0" width="4.6" height="8" rx="1.2" fill="#efc35c" transform="rotate(35 141.0 94.0)"/><rect x="104.2" y="94.4" width="4.6" height="8" rx="1.2" fill="#7dcea0" transform="rotate(-3 104.2 94.4)"/><rect x="97.9" y="106.1" width="4.6" height="8" rx="1.2" fill="#7eb8d4" transform="rotate(-25 97.9 106.1)"/><rect x="106.3" y="82.1" width="4.6" height="8" rx="1.2" fill="#f4a3bb" transform="rotate(-27 106.3 82.1)"/><rect x="122.3" y="112.4" width="4.6" height="8" rx="1.2" fill="#c47d32" transform="rotate(-22 122.3 112.4)"/><rect x="70.0" y="77.3" width="4.6" height="8" rx="1.2" fill="#e23d4a" transform="rotate(32 70.0 77.3)"/><rect x="129.3" y="121.5" width="4.6" height="8" rx="1.2" fill="#efc35c" transform="rotate(20 129.3 121.5)"/><rect x="106.1" y="74.8" width="4.6" height="8" rx="1.2" fill="#7dcea0" transform="rotate(-7 106.1 74.8)"/><rect x="73.4" y="77.5" width="4.6" height="8" rx="1.2" fill="#7eb8d4" transform="rotate(-31 73.4 77.5)"/></g>
+<ellipse cx="82" cy="82" rx="14" ry="8" fill="#fff" opacity="0.45" transform="rotate(-18 82 82)"/>
+<circle cx="136" cy="62" r="13" fill="#e23d4a"/>
+<circle cx="136" cy="62" r="6" fill="#fff" opacity=".35"/>
+<path d="M128 62 h16 M136 54 v16" stroke="#fff" stroke-width="2"/>
+<path d="M136 74 v28" stroke="#fffaf3" stroke-width="3" stroke-linecap="round"/>
+</svg>

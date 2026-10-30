@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<!-- Chocolate Charm -->
+<ellipse cx="100" cy="190" rx="56" ry="6.5" fill="#475940" opacity=".12"/>
+<ellipse cx="100" cy="102" rx="50" ry="36" fill="#6b3a28"/>
+<ellipse cx="82" cy="86" rx="16" ry="9" fill="#fff" opacity="0.16" transform="rotate(-18 82 86)"/>
+<path d="M0 6 C0 6 12-8 12 0 C12 8 0 16 0 16 C0 16-12 8-12 0 C-12-8 0 6 0 6 Z" fill="#e23d4a" transform="translate(100 78) scale(1.15)"/>
+<path d="M72 96 Q100 112 128 92" fill="none" stroke="#efc35c" stroke-width="3.2" stroke-linecap="round"/>
+<defs><clipPath id="cup"><path d="M54 116 L69 174 Q100 186 131 174 L146 116 Z"/></clipPath></defs>
+<path d="M54 116 L69 174 Q100 186 131 174 L146 116 Z" fill="#fffaf3"/>
+<g clip-path="url(#cup)"><rect x="40" y="136" width="120" height="16" fill="#6b3a28"/></g>
+<path d="M54 116 L69 174 Q100 186 131 174 L146 116" fill="none" stroke="#ead9c4" stroke-width="2"/>
+<ellipse cx="100" cy="116" rx="48" ry="13" fill="#fffaf3"/>
+<ellipse cx="100" cy="116" rx="48" ry="13" fill="none" stroke="#e7d3bc" stroke-width="2.2"/>
+</svg>

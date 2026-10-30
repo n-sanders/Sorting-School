@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<!-- Scoop Cookie Dream -->
+<ellipse cx="100" cy="190" rx="56" ry="6.5" fill="#475940" opacity=".12"/>
+<ellipse cx="100" cy="100" rx="50" ry="36" fill="#f6e2c4"/>
+<ellipse cx="100" cy="108" rx="44" ry="20" fill="#e8c99a"/>
+<ellipse cx="82" cy="84" rx="16" ry="9" fill="#fff" opacity="0.38" transform="rotate(-18 82 84)"/>
+<circle cx="82" cy="78" r="9" fill="#e0b15e"/>
+<circle cx="80" cy="76" r="1.8" fill="#6b3e22"/>
+<circle cx="86" cy="80" r="1.6" fill="#6b3e22"/>
+<circle cx="112" cy="74" r="8" fill="#efc7a0"/>
+<circle cx="110" cy="72" r="1.6" fill="#6b3e22"/>
+<circle cx="116" cy="76" r="1.5" fill="#6b3e22"/>
+<defs><clipPath id="cup"><path d="M54 116 L69 174 Q100 186 131 174 L146 116 Z"/></clipPath></defs>
+<path d="M54 116 L69 174 Q100 186 131 174 L146 116 Z" fill="#fffaf3"/>
+<g clip-path="url(#cup)"><rect x="40" y="136" width="120" height="16" fill="#e4ad4e"/></g>
+<path d="M54 116 L69 174 Q100 186 131 174 L146 116" fill="none" stroke="#ead9c4" stroke-width="2"/>
+<ellipse cx="100" cy="116" rx="48" ry="13" fill="#fffaf3"/>
+<ellipse cx="100" cy="116" rx="48" ry="13" fill="none" stroke="#e7d3bc" stroke-width="2.2"/>
+<ellipse cx="86" cy="92" rx="12" ry="6" fill="#fff" opacity="0.28" transform="rotate(-16 86 92)"/>
+</svg>

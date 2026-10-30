@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <ellipse cx="100" cy="190" rx="56" ry="6.5" fill="#475940" opacity=".12"/>
+  <defs>
+    <clipPath id="cup">
+      <path d="M54 116 L69 174 Q100 186 131 174 L146 116 Z"/>
+    </clipPath>
+  </defs>
+  <ellipse cx="100" cy="102" rx="52" ry="40" fill="#7dcea0"/>
+  <ellipse cx="100" cy="112" rx="46" ry="22" fill="#5eae84" opacity=".28"/>
+  <ellipse cx="82" cy="86" rx="18" ry="10" fill="#fff" opacity=".4" transform="rotate(-16 82 86)"/>
+  <g fill="#3c2a22">
+    <rect x="74" y="78" width="11" height="7" rx="2" transform="rotate(-28 79 81)"/>
+    <rect x="96" y="70" width="12" height="7" rx="2" transform="rotate(18 102 73)"/>
+    <rect x="118" y="84" width="10" height="6.5" rx="2" transform="rotate(-12 123 87)"/>
+    <rect x="86" y="96" width="9" height="6" rx="1.8" transform="rotate(24 90 99)"/>
+    <rect x="112" y="98" width="10" height="6" rx="1.8" transform="rotate(-36 117 101)"/>
+    <rect x="70" y="100" width="8" height="5.5" rx="1.6" transform="rotate(8 74 103)"/>
+  </g>
+  <path d="M54 116 L69 174 Q100 186 131 174 L146 116 Z" fill="#fffaf3"/>
+  <g clip-path="url(#cup)">
+    <rect x="40" y="136" width="120" height="16" fill="#e23d4a"/>
+  </g>
+  <path d="M54 116 L69 174 Q100 186 131 174 L146 116" fill="none" stroke="#ead9c4" stroke-width="2"/>
+  <ellipse cx="100" cy="116" rx="48" ry="13" fill="#fffaf3"/>
+  <ellipse cx="100" cy="116" rx="48" ry="13" fill="none" stroke="#e7d3bc" stroke-width="2.2"/>
+  <ellipse cx="100" cy="116" rx="40" ry="8" fill="#6fbf96" opacity=".35"/>
+</svg>

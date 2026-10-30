@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<!-- Cherry Carnival -->
+<ellipse cx="100" cy="190" rx="52" ry="6.5" fill="#475940" opacity=".12"/>
+<defs><clipPath id="cone"><path d="M70 126 L100 186 L130 126 Z"/></clipPath></defs>
+<path d="M70 126 L100 186 L130 126 Z" fill="#f2c56e"/>
+<path d="M100 186 L130 126 L111 126 Z" fill="#e4ad4e"/>
+<g clip-path="url(#cone)" fill="none" stroke="#c9842f" stroke-width="2.15" stroke-linecap="round">
+  <path d="M77 139 H123 M73 153 H127 M81 167 H119 M91 180 H109"/>
+  <path d="M85 126 L77 176 M100 126 V182 M115 126 L123 176"/>
+</g>
+<ellipse cx="100" cy="116" rx="48" ry="32" fill="#e23d4a"/>
+<ellipse cx="100" cy="84" rx="40" ry="28" fill="#ff7a8a"/>
+<ellipse cx="84" cy="72" rx="16" ry="9" fill="#fff" opacity="0.38" transform="rotate(-18 84 72)"/>
+<rect x="68.0" y="61.5" width="4.6" height="8" rx="1.2" fill="#e23d4a" transform="rotate(-11 68.0 61.5)"/><rect x="104.2" y="75.2" width="4.6" height="8" rx="1.2" fill="#efc35c" transform="rotate(-42 104.2 75.2)"/><rect x="73.4" y="96.8" width="4.6" height="8" rx="1.2" fill="#7dcea0" transform="rotate(11 73.4 96.8)"/><rect x="100.9" y="109.2" width="4.6" height="8" rx="1.2" fill="#7eb8d4" transform="rotate(40 100.9 109.2)"/><rect x="75.4" y="107.7" width="4.6" height="8" rx="1.2" fill="#f4a3bb" transform="rotate(-24 75.4 107.7)"/><rect x="80.1" y="86.2" width="4.6" height="8" rx="1.2" fill="#c47d32" transform="rotate(-29 80.1 86.2)"/><rect x="122.0" y="92.2" width="4.6" height="8" rx="1.2" fill="#e23d4a" transform="rotate(9 122.0 92.2)"/><rect x="120.5" y="92.8" width="4.6" height="8" rx="1.2" fill="#efc35c" transform="rotate(-9 120.5 92.8)"/><rect x="98.5" y="67.2" width="4.6" height="8" rx="1.2" fill="#7dcea0" transform="rotate(-35 98.5 67.2)"/><rect x="70.6" y="94.1" width="4.6" height="8" rx="1.2" fill="#7eb8d4" transform="rotate(-34 70.6 94.1)"/><rect x="129.9" y="91.8" width="4.6" height="8" rx="1.2" fill="#f4a3bb" transform="rotate(-42 129.9 91.8)"/><rect x="74.1" y="115.8" width="4.6" height="8" rx="1.2" fill="#c47d32" transform="rotate(4 74.1 115.8)"/>
+<path d="M118 48 v-22" stroke="#c9842f" stroke-width="2"/>
+<path d="M118 26 l14 6-14 5z" fill="#efc35c"/>
+</svg>

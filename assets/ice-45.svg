@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<!-- Banana Split -->
+<ellipse cx="100" cy="190" rx="74" ry="6.5" fill="#475940" opacity=".12"/>
+<path d="M18 136 Q14 172 100 176 Q186 172 182 136 Q148 122 100 126 Q52 122 18 136" fill="#e7f4f6"/>
+<path d="M30 128 Q26 102 62 112" fill="none" stroke="#f2c56e" stroke-width="16" stroke-linecap="round"/>
+<path d="M170 128 Q174 102 138 112" fill="none" stroke="#f2c56e" stroke-width="16" stroke-linecap="round"/>
+<path d="M34 124 Q40 108 58 114" fill="none" stroke="#e4ad4e" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="62" cy="112" rx="18" ry="16" fill="#f4a3bb"/>
+<ellipse cx="100" cy="104" rx="20" ry="17" fill="#f6ead3"/>
+<ellipse cx="138" cy="112" rx="18" ry="16" fill="#7a4930"/>
+<ellipse cx="92" cy="98" rx="8" ry="4" fill="#fff" opacity="0.45" transform="rotate(-16 92 98)"/>
+<path d="M92 96c4-8 12-8 16 0-6 3-12 3-16 0z" fill="#fffaf4"/>
+<circle cx="108" cy="84" r="7" fill="#e23d4a"/>
+<circle cx="105" cy="81" r="2.0" fill="#fff" opacity=".45"/>
+<path d="M108 77c2-9 8-13 13-11" fill="none" stroke="#6e8d6c" stroke-width="2.2" stroke-linecap="round"/>
+<ellipse cx="121" cy="65" rx="7" ry="3" fill="#8eaf78" transform="rotate(16 121 65)"/>
+</svg>

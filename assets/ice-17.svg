@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<!-- Sprinkle Lemon Lake -->
+<ellipse cx="100" cy="190" rx="60" ry="6.5" fill="#475940" opacity=".12"/>
+<path d="M46 126 L58 168 Q100 182 142 168 L154 126 Z" fill="#fffaf3"/>
+<path d="M60 142 L68 166 Q100 176 132 166 L140 142 Z" fill="#f6efe4"/>
+<ellipse cx="100" cy="112" rx="42" ry="26" fill="#ffe56a"/>
+<ellipse cx="100" cy="126" rx="56" ry="14" fill="#fffaf3" stroke="#ead9c4" stroke-width="2"/>
+<ellipse cx="100" cy="126" rx="44" ry="9" fill="#fff0a0"/>
+<path d="M68 124 q12-8 22 0 t22 0 t22 0" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+<circle cx="124" cy="112" r="11" fill="#ffe56a" stroke="#e0b83a" stroke-width="1.4"/>
+<circle cx="124" cy="112" r="3.1" fill="#fff6c2"/>
+<path d="M114 112 H134 M124 102 V122" stroke="#e0b83a" stroke-width="1"/>
+<rect x="70.0" y="111.3" width="4.6" height="8" rx="1.2" fill="#e23d4a" transform="rotate(31 70.0 111.3)"/><rect x="101.9" y="108.8" width="4.6" height="8" rx="1.2" fill="#efc35c" transform="rotate(20 101.9 108.8)"/><rect x="102.0" y="115.6" width="4.6" height="8" rx="1.2" fill="#7dcea0" transform="rotate(4 102.0 115.6)"/><rect x="105.6" y="115.3" width="4.6" height="8" rx="1.2" fill="#7eb8d4" transform="rotate(30 105.6 115.3)"/><rect x="75.1" y="116.2" width="4.6" height="8" rx="1.2" fill="#f4a3bb" transform="rotate(37 75.1 116.2)"/>
+</svg>

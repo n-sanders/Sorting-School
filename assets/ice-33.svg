@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<!-- Coffee Cloud -->
+<ellipse cx="100" cy="190" rx="40" ry="6.5" fill="#475940" opacity=".12"/>
+<ellipse cx="100" cy="178" rx="24" ry="7" fill="#d5e7ea"/>
+<path d="M96 156 h8 v20 h-8 z" fill="#e7f4f6"/>
+<path d="M68 96 L80 148 Q100 162 120 148 L132 96 Z" fill="#e7f4f6"/>
+<path d="M80 114 L86 146 Q100 156 114 146 L120 114 Z" fill="#d5ebee" opacity=".65"/>
+<ellipse cx="100" cy="116" rx="28" ry="16" fill="#c4a484"/>
+<ellipse cx="100" cy="100" rx="32" ry="18" fill="#d7bda0"/>
+<path d="M68 92c8-24 56-26 64 2-18 14-46 14-64-2z" fill="#fffaf4"/>
+<path d="M80 80c6-12 28-12 34 2-10 6-24 6-34-2z" fill="#fff"/>
+<ellipse cx="86" cy="100" rx="5" ry="3.2" fill="#6b4226" transform="rotate(-20 86 100)"/>
+<ellipse cx="112" cy="96" rx="4.5" ry="3" fill="#5c3318" transform="rotate(16 112 96)"/>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <ellipse cx="100" cy="190" rx="52" ry="6.5" fill="#475940" opacity=".12"/>
+  <defs>
+    <clipPath id="cone">
+      <path d="M70 128 L100 186 L130 128 Z"/>
+    </clipPath>
+  </defs>
+  <path d="M70 128 L100 186 L130 128 Z" fill="#f2c56e"/>
+  <path d="M100 186 L130 128 L111 128 Z" fill="#e4ad4e"/>
+  <g clip-path="url(#cone)" fill="none" stroke="#c9842f" stroke-width="2.15" stroke-linecap="round">
+    <path d="M77 141 H123 M73 155 H127 M81 168 H119 M91 178 H109"/>
+    <path d="M85 128 L77 174 M100 128 V182 M115 128 L123 174"/>
+  </g>
+  <ellipse cx="100" cy="132" rx="34" ry="20" fill="#ffb3d1"/>
+  <ellipse cx="100" cy="116" rx="40" ry="20" fill="#8fd4f4"/>
+  <ellipse cx="100" cy="100" rx="36" ry="18" fill="#ff9ec6"/>
+  <ellipse cx="100" cy="86" rx="30" ry="16" fill="#b7e6fa"/>
+  <ellipse cx="100" cy="74" rx="22" ry="14" fill="#ffb0d4"/>
+  <ellipse cx="100" cy="62" rx="13" ry="12" fill="#d9f3ff"/>
+  <path d="M100 46c8-2 12 8 6 14-6-2-10-6-6-14z" fill="#ffc2de"/>
+  <ellipse cx="92" cy="70" rx="8" ry="4" fill="#fff" opacity=".4" transform="rotate(-20 92 70)"/>
+  <g fill="#fff" opacity=".55">
+    <circle cx="148" cy="78" r="8"/>
+    <circle cx="146" cy="76" r="2.4" fill="#fff"/>
+  </g>
+  <circle cx="148" cy="78" r="8" fill="none" stroke="#f7fbff" stroke-width="2"/>
+  <circle cx="154" cy="78" r="8" fill="#ffffff" opacity=".28"/>
+  <circle cx="44" cy="96" r="6" fill="#fff" opacity=".5"/>
+  <circle cx="44" cy="96" r="6" fill="none" stroke="#fff" stroke-width="1.6"/>
+  <circle cx="158" cy="112" r="4.5" fill="#fff" opacity=".4"/>
+</svg>
